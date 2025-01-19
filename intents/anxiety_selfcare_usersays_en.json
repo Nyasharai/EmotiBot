@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c7816bb5-81c4-498e-b74d-07685b1396c3",
+    "data": [
+      {
+        "text": "Can you help me with my anxiety?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1d3c036-5145-4812-976f-8af53cb4b765",
+    "data": [
+      {
+        "text": "Any tips to reduce anxiety?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "102520f9-abed-460e-8bff-8e92128debf4",
+    "data": [
+      {
+        "text": "I need help with my anxiety.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be910c45-691c-418f-9f5b-889636c29fa5",
+    "data": [
+      {
+        "text": "how to deal with anxiety",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38786284-f5fc-42b8-9b64-a3f55012dda4",
+    "data": [
+      {
+        "text": "how to handle anxiety",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

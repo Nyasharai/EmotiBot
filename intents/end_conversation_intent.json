@@ -1,0 +1,47 @@
+{
+  "id": "8bcadcdb-8b71-4ca2-b0bc-d17b82c3de90",
+  "name": "end_conversation_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "end_context",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I’m glad I could help. Take care, and I’m here whenever you need me!",
+            "Thank you for sharing. Remember, you’re not alone. Have a great day!",
+            "Take care, and don’t hesitate to reach out if you need support again.",
+            "Goodbye for now! Stay safe and take care of yourself.",
+            "Goodbye for now! Stay well and take care of yourself.",
+            "Thank you for talking to me! Feel free to come back whenever.",
+            "It was nice talking with you! Wishing you all the best!",
+            "Wishing you happiness and peace! Come back anytime you need help."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

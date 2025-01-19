@@ -1,0 +1,36 @@
+{
+  "id": "01bab95f-9fab-43e2-973a-7dcb10276050",
+  "name": "anxiety_selfcare",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I’m sorry you’re feeling anxious. Here are some self-care tips you can try to feel more at ease:\n1.. Practice deep breathing – Inhale slowly for 4 seconds, hold for 4 seconds, and exhale slowly for 4 seconds.\n2. Take a break from what’s causing stress, even if just for a few minutes.\n3. Ground yourself – Focus on your senses: 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, 1 thing you can taste.\n4. Go for a walk or get some fresh air to clear your mind.\n5. Do a relaxation exercise like progressive muscle relaxation, where you tense and then relax each muscle group.",
+            "I’m here to help you manage your anxiety. Try these self-care strategies:\n1. Use positive affirmations – Remind yourself that it’s okay to feel anxious, and that this feeling will pass.\n2. Take a moment to relax – Try listening to calming music or a meditation app.\n3. Drink a cup of herbal tea, like chamomile or peppermint, known for their calming properties.\n4. Get moving – Exercise can release endorphins, which help reduce anxiety.\n5. Practice grounding exercises, like focusing on your feet or taking deep breaths."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

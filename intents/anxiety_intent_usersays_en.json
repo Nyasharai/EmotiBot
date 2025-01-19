@@ -1,0 +1,154 @@
+[
+  {
+    "id": "fe77562b-2f62-4d78-8409-a7747a2a3da3",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "restless",
+        "meta": "@Emotion_anxiety",
+        "alias": "Emotion_anxiety",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3a94401-ca8d-4613-8a02-d573f8de6e08",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "scared",
+        "meta": "@Emotion_anxiety",
+        "alias": "Emotion_anxiety",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b220a85-2ef8-4aaa-ae16-0f4122070542",
+    "data": [
+      {
+        "text": "I feel so ",
+        "userDefined": false
+      },
+      {
+        "text": "tense",
+        "meta": "@Emotion_anxiety",
+        "alias": "Emotion_anxiety",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6de17a50-5aa2-443e-ab70-14ade6735025",
+    "data": [
+      {
+        "text": "My heart is ",
+        "userDefined": false
+      },
+      {
+        "text": "racing",
+        "meta": "@Emotion_anxiety",
+        "alias": "Emotion_anxiety",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dc6cc8b-3406-41d2-b937-d741cd6e7e8c",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "nervous",
+        "meta": "@Emotion_anxiety",
+        "alias": "Emotion_anxiety",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6c0e91a-154d-4775-b44e-2fae749835f8",
+    "data": [
+      {
+        "text": "I can\u0027t stop ",
+        "userDefined": false
+      },
+      {
+        "text": "overthinking",
+        "meta": "@Emotion_anxiety",
+        "alias": "Emotion_anxiety",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ec88152-e07d-48a6-9b00-97507655d402",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "worried",
+        "meta": "@Emotion_anxiety",
+        "alias": "Emotion_anxiety",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6f3b1a9-a3c9-402f-bb2b-755b2cae90a7",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "anxious",
+        "meta": "@Emotion_anxiety",
+        "alias": "Emotion_anxiety",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

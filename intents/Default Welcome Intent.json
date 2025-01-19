@@ -1,0 +1,57 @@
+{
+  "id": "15ec03c6-3cf2-4f85-b765-03fbbeca9546",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! How are you doing?",
+            "Greetings! How can I assist?",
+            "Hi there! I\u0027m here to support you. How are you feeling today?",
+            "Hello! I\u0027m here to listen. What’s on your mind?",
+            "Hey! I’m glad you reached out. How are you feeling right now?",
+            "Hi! I’m here to help. Let me know how you’re feeling",
+            "Hello! I’m here to support you. Would you like to talk about something?",
+            "Hey there! I’m here for you. How can I support you today?",
+            "Hi! It’s good to connect. What’s been going on?",
+            "Hello! I’m here to listen and help. How can I make things easier for you?",
+            "Hi there! I’m here for you whenever you need me. How are you doing?",
+            "Hey! I’m here to help. Let’s talk.",
+            "Hi! You’re not alone. I’m here to listen.",
+            "Hello! I’m here to support you in any way I can.",
+            "Hey there! What’s on your mind today?",
+            "Hello! I’m here to listen and provide support.",
+            "Hey! You can talk to me about anything.",
+            "Hello! Let’s talk about what’s on your mind.",
+            "Welcome back! What’s on your mind?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

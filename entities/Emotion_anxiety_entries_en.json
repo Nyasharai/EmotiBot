@@ -1,0 +1,71 @@
+[
+  {
+    "value": "anxoius",
+    "synonyms": [
+      "anxoius",
+      "nervous",
+      "worried",
+      "uneasy",
+      "tense",
+      "restless",
+      "agitated",
+      "frazzled"
+    ]
+  },
+  {
+    "value": "stressed",
+    "synonyms": [
+      "stressed",
+      "tense",
+      "overwhelmed"
+    ]
+  },
+  {
+    "value": "afraid",
+    "synonyms": [
+      "afraid",
+      "scared",
+      "fearful",
+      "terrified",
+      "worried",
+      "frightened"
+    ]
+  },
+  {
+    "value": "panicked",
+    "synonyms": [
+      "panicked",
+      "alarmed",
+      "in distress",
+      "freaked out",
+      "terrified"
+    ]
+  },
+  {
+    "value": "uneasy",
+    "synonyms": [
+      "uneasy",
+      "unsettled",
+      "disturbed",
+      "on edge",
+      "troubled"
+    ]
+  },
+  {
+    "value": "tense",
+    "synonyms": [
+      "tense",
+      "rigid",
+      "strained"
+    ]
+  },
+  {
+    "value": "worried",
+    "synonyms": [
+      "worried",
+      "troubled",
+      "concerned",
+      "distressed"
+    ]
+  }
+]

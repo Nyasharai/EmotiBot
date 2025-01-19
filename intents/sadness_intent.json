@@ -1,0 +1,80 @@
+{
+  "id": "52f9e05c-fc6e-411e-bdb4-e1b9f421cbc8",
+  "name": "sadness_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "sadness_context",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9b3d394c-3a7e-4f29-bf7d-469bbd1e94a6",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "339bb3d9-6c90-49d2-aab1-46ebee85f35e",
+          "name": "Emotion_sadness",
+          "required": false,
+          "dataType": "@Emotion_sadness",
+          "value": "$Emotion_sadness",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I’m so sorry you’re feeling this way. I’m here to support you.",
+            "It’s okay to feel sad sometimes. I’m here to listen.",
+            "You’re not alone in this. Let’s talk about what’s troubling you.",
+            "I understand how hard things can feel. You’re not alone.",
+            "It’s brave of you to share this with me. I’m here for you.",
+            "Things might feel heavy right now, but remember, you’ve faced tough times before and made it through.",
+            "You’re stronger than you think. Let’s work through this together.",
+            "Your feelings are valid. It’s okay to let it out.",
+            "That sounds really difficult. I’m here to listen to whatever you want to share.",
+            "I’m sorry you’re feeling like this. You’re not alone, and I want to help.",
+            "Sometimes, just talking about it can help lighten the load. I’m here for you.",
+            "Take your time to express what you’re feeling. I’m here to listen."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

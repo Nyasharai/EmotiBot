@@ -1,0 +1,9 @@
+{
+  "id": "1ada7a3a-efc6-4f47-89ed-904f67eac7bf",
+  "name": "Emotion_sadness",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}
