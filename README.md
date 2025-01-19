@@ -14,6 +14,10 @@ The **Emotional Support AI Chatbot** is designed to assist users by offering emo
 ## Chatbot Interface
 <img width="306" alt="image" src="https://github.com/user-attachments/assets/48fccebb-f3a0-4f37-9ded-ed4e2452fe52" />
 
+## Demo
+
+Watch the demo of the Emotional Support AI Chatbot in action:
+[https://drive.google.com/file/d/15hme9zrYCSd3aBmASgGYh6VyEIkAh9Fo/view?usp=sharing](https://www.kapwing.com/videos/678cc1c0ca054d75b0e0f193)
 
 ## Technologies Used
 - **Node.js**: Used for backend development.
