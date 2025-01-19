@@ -9,6 +9,11 @@ The **Emotional Support AI Chatbot** is designed to assist users by offering emo
 - **Emotion Keywords**: Identifies and provides keywords associated with emotions like happiness, sadness, and anxiety.
 - **Self-care Tips**: Suggests self-care tips based on the detected emotion to help users manage their feelings.
 - **End of Conversation**: Gracefully ends the conversation with a friendly message.
+- **Voice search**: Allows users to interact with the chatbot using voice commands.
+
+## Chatbot Interface
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/48fccebb-f3a0-4f37-9ded-ed4e2452fe52" />
+
 
 ## Technologies Used
 - **Node.js**: Used for backend development.
@@ -38,8 +43,12 @@ The **Emotional Support AI Chatbot** is designed to assist users by offering emo
     npm start
     ```
 
-## Usage
-Once the application is running, you can interact with the chatbot by typing your emotions. It will provide appropriate responses based on the detected emotion and give suggestions for self-care. The chatbot will offer a friendly greeting at the start and gracefully close the conversation at the end.
+## How It Works:
+- **User Interaction**: The user communicates with the chatbot through text or voice input.
+- **Emotion Detection**: The chatbot analyzes the user's input to detect the emotion behind it.
+- **Response Generation**: Based on the detected emotion, the chatbot provides relevant self-care tips or responses.
+- **End of Conversation**: The user can end the conversation at any time by saying "goodbye" or similar phrases.
+- **Voice Input**: The chatbot also supports voice search for users who prefer speaking over typing.
 
 ### Sample Interactions:
 - **User:** "I feel sad."
