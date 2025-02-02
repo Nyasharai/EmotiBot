@@ -19,15 +19,16 @@ This chatbot is currently a **basic prototype**, with **future enhancements plan
 
 
 ## **🖥️ Chatbot Interface**  
-![Chatbot Interface](https://github.com/user-attachments/assets/48fccebb-f3a0-4f37-9ded-ed4e2452fe52)  
+<img width="301" alt="1" src="https://github.com/user-attachments/assets/b0073879-e357-460d-b1c6-38e3f53f21ec" />
+<img width="299" alt="2" src="https://github.com/user-attachments/assets/13c9a598-947d-4a4c-aff6-df0b43ed35a7" />
 
 
 ## **🎥 Demo**  
 Watch the **EmotiBot in action**:  
-🔗 [Demo Video](https://www.kapwing.com/videos/678cc1c0ca054d75b0e0f193)  
+🔗 https://vimeo.com/1052700158?share=copy 
 
 Try the **live chatbot**:  
-🔗 [Chatbot Link](https://bot.dialogflow.com/050e98f6-3290-4ecd-83c8-bca5ac0ba91e)  
+🔗 https://bot.dialogflow.com/050e98f6-3290-4ecd-83c8-bca5ac0ba91e
 
 
 ## **🛠️ Technologies Used**  
