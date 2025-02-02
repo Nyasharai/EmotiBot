@@ -1,0 +1,38 @@
+{
+  "id": "df9a3398-fca7-499c-ba6e-31effcbfb727",
+  "name": "CalmingVisualization",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Close your eyes and take a few deep breaths. Imagine yourself in a peaceful forest, with the sun shining through the trees. Hear the birds chirping and feel the soft breeze. Stay in this moment for a few minutes.🌬️",
+            "\"Let\u0027s take a moment for some relaxation. Close your eyes, take a deep breath, and imagine yourself in a calm, peaceful place. Maybe a beach with the sound of the waves or a quiet forest with birds chirping. Take a deep breath in... and out...\" 🌊🌿",
+            "\"Let’s start by visualizing a serene mountain top with a cool breeze blowing gently. Imagine the fresh air and the peaceful sound of nature. Breathe in deeply, and with every exhale, feel your tension melt away.\" 🏞️🌬️",
+            "\"Picture yourself in a beautiful garden, surrounded by colorful flowers. The sun is shining gently, and there’s a calm breeze. Inhale deeply and let the tranquility of this place fill your mind. Take your time and enjoy the calm.\" 🌸🌞"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "4bc65cf9-1fbc-4d75-8ef0-d25bbf68975f",
+  "name": "RelaxingMusic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here\u0027s a calming sound for you. Click [here](https://www.youtube.com/watch?v\u003dDGQwd1_dpuc) to listen. 🎵 Relaxing Piano Music → https://www.youtube.com/watch?v\u003d2OEL4P1Rz04\n🌊 Nature Sounds (Rain \u0026 Ocean) → https://www.youtube.com/watch?v\u003deKFTSSKCzWA\n🧘 Meditation \u0026 Deep Breathing Music → https://www.youtube.com/watch?v\u003d1ZYbU82GVz4",
+            "😴 Deep Sleep Music → https://www.youtube.com/watch?v\u003dMzvGq2bndCg\n💆 Stress \u0026 Anxiety Relief Music → https://www.youtube.com/watch?v\u003dyfYjEkaN-1s\n🎶 Lo-Fi Chill Beats → https://www.youtube.com/watch?v\u003djfKfPfyJRdk",
+            "🌿 Peaceful Flute Music → https://www.youtube.com/watch?v\u003dDLT6pB1p1jQ\n💜 Relaxing Harp \u0026 Strings → https://www.youtube.com/watch?v\u003d2OEL4P1Rz04\n🌄 Calm Morning Meditation Music → https://www.youtube.com/watch?v\u003d5qap5aO4i9A"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

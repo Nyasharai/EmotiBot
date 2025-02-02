@@ -1,0 +1,40 @@
+{
+  "id": "c50932a9-e91b-4639-bf94-0b17795bd171",
+  "parentId": "3a2fc024-bda3-49a1-ae61-b0c9d8a3c800",
+  "rootParentId": "3a2fc024-bda3-49a1-ae61-b0c9d8a3c800",
+  "name": "Feedback - fallback",
+  "contexts": [
+    "Feedback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Feedback.Feedback-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oops! Ratings should be between 1️⃣ and 5️⃣. Can you please rate again?",
+            "Hmm, I didn’t quite get that. Could you rate me on a scale of 1️⃣ to 5️⃣?",
+            "It seems like you didn’t enter a valid rating. Please rate your experience with a number between 1 and 5."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

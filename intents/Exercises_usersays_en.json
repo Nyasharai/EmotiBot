@@ -1,0 +1,67 @@
+[
+  {
+    "id": "40efa30c-bf3b-4e86-a38e-fb2742de247e",
+    "data": [
+      {
+        "text": "meditation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "584b4c3f-e146-433a-8cf0-1c2c4b9126bf",
+    "data": [
+      {
+        "text": "exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd20c20e-eaf0-488b-ac27-fcd93c32f2a3",
+    "data": [
+      {
+        "text": "Help me relax with some breathing exercises.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7df7807e-3d50-4391-9c0b-89033b6fd649",
+    "data": [
+      {
+        "text": "Can you guide me through meditation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ac4ef6e-a7d5-4b0b-a32e-d34fb8f6bff0",
+    "data": [
+      {
+        "text": "I need a breathing exercise.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

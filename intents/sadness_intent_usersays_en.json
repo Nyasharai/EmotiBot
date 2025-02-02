@@ -1,0 +1,271 @@
+[
+  {
+    "id": "ec25fd6f-dea6-4d62-afe9-86382fca2718",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "not",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": false
+      },
+      {
+        "text": " feeling well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85d4143a-a495-4a30-8f41-30ce58c5f490",
+    "data": [
+      {
+        "text": "i am very ",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      },
+      {
+        "text": " still",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea10cab5-b86d-410c-8a21-15e4f930fba3",
+    "data": [
+      {
+        "text": "I feel lonely and ",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6eef8f5-c6ba-4917-a266-8644c5daf594",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "not okay",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b501c6f7-e6a6-43da-b751-bf8e6ddfeb8c",
+    "data": [
+      {
+        "text": "Why does everything feel so ",
+        "userDefined": false
+      },
+      {
+        "text": "bad",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee920396-3835-4ce0-9df7-1de5fb013e7f",
+    "data": [
+      {
+        "text": "I\u0027m so ",
+        "userDefined": false
+      },
+      {
+        "text": "unhappy",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac6d5cb0-1b47-49bf-82fb-ab7a263e00da",
+    "data": [
+      {
+        "text": "I feel like ",
+        "userDefined": false
+      },
+      {
+        "text": "crying",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddd8109f-18cf-4ac3-9498-6c13ea211b03",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "heartbroken",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbeddb81-1327-434a-8a07-7f52765b888f",
+    "data": [
+      {
+        "text": "I don\u0027t know why, but I feel so ",
+        "userDefined": false
+      },
+      {
+        "text": "low",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a13db60-8bf4-48de-b6e5-c546f3633e04",
+    "data": [
+      {
+        "text": "I\u0027m feeling really ",
+        "userDefined": false
+      },
+      {
+        "text": "down",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad6318a2-87ac-420e-b1b3-3cdfab3e3d1e",
+    "data": [
+      {
+        "text": "Everything feels so ",
+        "userDefined": false
+      },
+      {
+        "text": "heavy",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed71edb2-3cfc-4ec7-baf3-12f6581d7c1a",
+    "data": [
+      {
+        "text": "I\u0027m so ",
+        "userDefined": false
+      },
+      {
+        "text": "upset",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1f530ab-c9f9-4b61-a308-670946125bef",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "sad",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

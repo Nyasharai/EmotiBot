@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d238dc16-47f0-47df-8f8a-1e19e5b4998b",
+    "data": [
+      {
+        "text": "What can I do to reduce stress?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50025b36-f5c2-4e40-8a4d-068429d4c0dc",
+    "data": [
+      {
+        "text": "I\u0027m stressed, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1decb621-3512-46ff-b73b-ef11fcb27264",
+    "data": [
+      {
+        "text": "What are some ways to deal with stress?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b484e57-32cc-4cde-acdd-bd13e3b16cdf",
+    "data": [
+      {
+        "text": "Can you give me tips for stress relief?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75cf514f-456f-41f2-863a-3044be0f624c",
+    "data": [
+      {
+        "text": "How do I manage stress?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f13e6f0-6641-4a65-907b-0cc795382b61",
+    "data": [
+      {
+        "text": "I\u0027m feeling stressed, can you help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

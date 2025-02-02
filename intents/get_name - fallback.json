@@ -1,0 +1,42 @@
+{
+  "id": "8c86366e-d1c6-4237-9e3e-fa8fd8332f7d",
+  "parentId": "e7f01a5a-85fa-4e94-a54c-d63a213bc27a",
+  "rootParentId": "e7f01a5a-85fa-4e94-a54c-d63a213bc27a",
+  "name": "get_name - fallback",
+  "contexts": [
+    "name_context",
+    "get_name-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get_name.get_name-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I didn’t get you. Could you share your name with me?",
+            "I\u0027m expecting a name, but that doesn\u0027t seem like one. Can you please tell me your name?",
+            "Oops! That doesn’t sound like a name. Could you share your name with me?",
+            "I was looking for your name. Can you try again?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

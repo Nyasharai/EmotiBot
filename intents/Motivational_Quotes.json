@@ -1,0 +1,41 @@
+{
+  "id": "78476bcc-d02e-4d48-b9a5-a9bfedb90e78",
+  "name": "Motivational_Quotes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "\"The only way to do great work is to love what you do.\" – Steve Jobs💡💖👨‍💻",
+            "\"Believe you can, and you\u0027re halfway there.\" – Theodore Roosevelt ✨💪",
+            "\"Your limitation—it\u0027s only your imagination.\" 💭🚀",
+            "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\" – Winston Churchill 🌟👣",
+            "\"Every day may not be good, but there is something good in every day.\"💭💖",
+            "\"The only way to do great work is to love what you do.\" – Steve Jobs 💡💖",
+            "\"Don’t wait for opportunity. Create it.\" 🔨💼"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

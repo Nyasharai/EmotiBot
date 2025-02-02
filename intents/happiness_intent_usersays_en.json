@@ -1,0 +1,194 @@
+[
+  {
+    "id": "43bd9475-7c13-4211-bae0-d55fb798e485",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "meta": "@Emotion_happiness",
+        "alias": "Emotion_happiness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8c12348-659d-4447-ba65-f8bedfc1f79b",
+    "data": [
+      {
+        "text": "I feel so ",
+        "userDefined": false
+      },
+      {
+        "text": "grateful",
+        "meta": "@Emotion_happiness",
+        "alias": "Emotion_happiness",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27d0fcdb-c56e-4d30-9f23-ea0b0f09bbef",
+    "data": [
+      {
+        "text": "I\u0027m so ",
+        "userDefined": false
+      },
+      {
+        "text": "cheerful",
+        "meta": "@Emotion_happiness",
+        "alias": "Emotion_happiness",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54fb5e30-a959-4186-bef6-8cf553c732d2",
+    "data": [
+      {
+        "text": "I\u0027m in such a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@Emotion_happiness",
+        "alias": "Emotion_happiness",
+        "userDefined": true
+      },
+      {
+        "text": " mood.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "824e3a71-d7e9-46a0-a36c-dcc6d3ab5a14",
+    "data": [
+      {
+        "text": "Everything is going great!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32d3d30a-420e-4563-98e9-9b96ec3072a3",
+    "data": [
+      {
+        "text": "I\u0027m feeling really ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@Emotion_happiness",
+        "alias": "Emotion_happiness",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a04f075-cc1e-4f5a-af08-8ad4612c1f32",
+    "data": [
+      {
+        "text": "I\u0027m so ",
+        "userDefined": false
+      },
+      {
+        "text": "excited",
+        "meta": "@Emotion_happiness",
+        "alias": "Emotion_happiness",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "644eea06-ffec-452b-acf0-14e0c90c11ac",
+    "data": [
+      {
+        "text": "I\u0027m feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "meta": "@Emotion_happiness",
+        "alias": "Emotion_happiness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
