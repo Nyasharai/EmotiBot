@@ -31,8 +31,7 @@ Try the **live chatbot**:
 
 
 ## **🛠️ Technologies Used**  
-- **Dialogflow ES** – For natural language processing and intent recognition.  
-- **JavaScript, HTML, CSS** – Used for chatbot logic and UI interaction.  
+- **Dialogflow ES** – For natural language processing and intent recognition.   
 - **Node.js & Webhooks (Optional)** – For advanced chatbot functionality.  
 - **Giphy API & YouTube** – For visual breathing exercises and calming music.  
 - **JSON** – Used for storing intents and entities.  
