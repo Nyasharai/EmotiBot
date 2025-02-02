@@ -1,0 +1,38 @@
+{
+  "id": "cf8be267-73a5-4e39-8ac8-94a7cbc84ed5",
+  "name": "ok",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright! How can I assist you further?",
+            "Good to go! Anything else?",
+            "Wonderful! I\u0027m here to assist you.",
+            "Awesome, let\u0027s keep going!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

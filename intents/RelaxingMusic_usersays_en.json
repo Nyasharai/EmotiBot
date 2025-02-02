@@ -1,0 +1,41 @@
+[
+  {
+    "id": "4e17407d-143a-4ba9-afb0-32a7f1841755",
+    "data": [
+      {
+        "text": "Can you play relaxing sounds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37ef8ffe-865a-4160-a50e-7f74be25f52a",
+    "data": [
+      {
+        "text": "I need calming sounds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "237b2bf9-7fc7-4c21-8d22-7719c1dab265",
+    "data": [
+      {
+        "text": "Play relaxing music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

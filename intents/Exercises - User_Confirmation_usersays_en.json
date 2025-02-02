@@ -1,0 +1,105 @@
+[
+  {
+    "id": "e2d6efaf-df31-4a20-8585-50db4c02ae65",
+    "data": [
+      {
+        "text": "finished",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac0a7507-a37b-4f80-bc59-a3afc8572df9",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "finished",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cb6c309-e708-4e9b-a5ce-e397e4adf052",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "done",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab4212de-9a35-4e47-a6ae-62cb2ab121f2",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "done",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " the exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3ed587a-9222-4ee4-a662-4bd6b15f4bd2",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "done",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " inhaling and exhaling.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

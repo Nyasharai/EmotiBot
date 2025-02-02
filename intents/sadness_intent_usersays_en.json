@@ -1,5 +1,28 @@
 [
   {
+    "id": "ec25fd6f-dea6-4d62-afe9-86382fca2718",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "not",
+        "meta": "@Emotion_sadness",
+        "alias": "Emotion_sadness",
+        "userDefined": false
+      },
+      {
+        "text": " feeling well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
     "id": "85d4143a-a495-4a30-8f41-30ce58c5f490",
     "data": [
       {

@@ -1,0 +1,36 @@
+{
+  "id": "ff77f390-4444-4e1a-8755-7e8f84a2b79a",
+  "name": "Stress_Management_Resources",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "\"Managing stress is key to maintaining both physical and mental well-being. Here are some helpful resources for stress management:\"\n\n🧘 Stress Relief Techniques → https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/stress\n🎥 Guided Meditation for Stress → https://www.youtube.com/watch?v\u003dinpok4MKVLM\n🏃 Exercise and Stress Reduction → https://www.verywellfit.com/stress-relief-exercises-4177654",
+            "\"Here are some practical strategies to help manage and reduce stress:\"\n\n🧘 Mindfulness Practices → https://www.mindful.org/meditation/mindfulness-getting-started/\n🏅 Time Management Tips to Reduce Stress → https://www.psychologytoday.com/us/blog/urban-survival/201712/11-time-management-tips-reduce-stress\n🌿 Nature Walks for Stress Relief → https://www.healthline.com/health/mental-health/benefits-of-nature"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -15,11 +15,25 @@
       ],
       "parameters": [
         {
-          "id": "476982bd-d577-42bd-83b3-05133acafa82",
+          "id": "976215ee-1adf-4253-acef-670c20ef3988",
           "name": "Emotion_anxiety",
           "required": false,
           "dataType": "@Emotion_anxiety",
           "value": "$Emotion_anxiety",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "aa8f501b-48ba-4d2b-99f1-7caa7c4c1907",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
           "defaultValue": "",
           "isList": false,
           "prompts": [],
@@ -39,7 +53,6 @@
             "It’s okay to feel this way. Let’s take a deep breath together and try to relax.",
             "Try to ground yourself. Look around and name five things you can see. I’m here with you.",
             "et’s pause and take this one step at a time. You’re doing better than you think.",
-            "It’s natural to feel overwhelmed sometimes. Let’s work through it together.",
             "It’s okay to feel this way."
           ],
           "condition": ""

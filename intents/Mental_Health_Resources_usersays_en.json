@@ -1,0 +1,93 @@
+[
+  {
+    "id": "9c66a3b8-f091-4952-9c74-eac2d10fa07d",
+    "data": [
+      {
+        "text": "What are some mental health tips?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9f2defd-03de-44dc-a30f-c34914bc2fb8",
+    "data": [
+      {
+        "text": "I want to know more about mental health support.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4565af36-4c45-4c61-a0dd-1ba7fe6a3a6a",
+    "data": [
+      {
+        "text": "I\u0027m feeling down, what can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a219595-018b-4676-9a34-be660ac3633c",
+    "data": [
+      {
+        "text": "Can you guide me for mental health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e47ef37b-255c-4cf8-9e8c-525334db4f9e",
+    "data": [
+      {
+        "text": "Where can I find mental health resources?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fef58f3b-1281-437e-8a3d-d04dce51283f",
+    "data": [
+      {
+        "text": "I need help with my mental health.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58c50ab3-5778-4f6a-993b-b77b2c366312",
+    "data": [
+      {
+        "text": "Can you suggest resources for mental health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

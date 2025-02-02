@@ -1,0 +1,40 @@
+{
+  "id": "94a83a21-ffb0-4065-a379-790cf3ba41e2",
+  "name": "Fallback_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, I didn\u0027t quite understand that.",
+            "Oops! I didn\u0027t get that. Can you rephrase it?",
+            "I\u0027m not sure what you\u0027re trying to say. Could you please clarify?",
+            "I can help with emotional support, relaxation tips, and more. What would you like to talk about?",
+            "I\u0027m sorry, I didn\u0027t understand that. Could you rephrase?",
+            "I’m not sure I understand."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

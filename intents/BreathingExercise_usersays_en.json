@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4decbb51-52e8-4ca5-9788-2763f80db5b1",
+    "data": [
+      {
+        "text": "some breathing exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb65e097-fb1d-4db8-b82f-c28d315de2e4",
+    "data": [
+      {
+        "text": "breath",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc2bf5ec-c1dd-4424-9191-1bac4199f0d5",
+    "data": [
+      {
+        "text": "breathing exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a7d6aec-f12d-4ea3-afd8-45d5f58106d6",
+    "data": [
+      {
+        "text": "I feel anxious, help me breathe.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bcfb2d0-5095-4f87-b6b7-23952585ad65",
+    "data": [
+      {
+        "text": "Can you guide me through a breathing exercise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "698f3f36-cf65-4491-b0b2-ecc92376f30f",
+    "data": [
+      {
+        "text": "I need help with stress.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

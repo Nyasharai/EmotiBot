@@ -1,0 +1,42 @@
+{
+  "id": "fdeb40d3-9877-48a3-a295-c519b25f2f18",
+  "name": "Exercises",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Exercises-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Let\u0027s begin with a 3-minute deep breathing exercise:-------1. Start by inhaling deeply through your nose for 4 seconds. 2. Slowly exhale through your mouth for 6 seconds. Take your time and let me know when you are done.",
+            "Here are some resources that can help you manage stress and anxiety effectively:\n✅ Stress Management Strategies: [Mental Health Foundation](https://www.mentalhealth.org.uk/explore-mental-health/a-z-topics/stress)  \n✅ Guided Breathing Exercises: [YouTube - Guided Breathing](https://www.youtube.com/watch?v\u003dinpok4MKVLM)  \n✅ Sleep Improvement Tips: [Sleep Foundation](https://www.sleepfoundation.org/sleep-hygiene)                                   \n Take your time and let me know when you are done.",
+            "Exercise is a great way to manage stress and feel better! Try these routines:\n🌿 Guided Breathing \u0026 Meditation → [Calm App](https://www.calm.com/)  \n🏃 Outdoor Walking for Relaxation → [Healthline Walking Benefits](https://www.healthline.com/nutrition/10-benefits-of-walking)  \n🏋️ Strength Training for Stress Reduction → [NHS Strength Training](https://www.nhs.uk/live-well/exercise/strength-and-flex-exercises/)             Take your time and let me know when you are done."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "3e583cd8-c24f-4c89-bc9c-9960ce8b48ea",
+    "data": [
+      {
+        "text": "I need tips for sleep.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ecbc65-cb05-40eb-8617-c7fbf062ee90",
+    "data": [
+      {
+        "text": "I need tips for better sleep.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95d41c10-0eab-4093-86e9-d5f7991a46bf",
+    "data": [
+      {
+        "text": "What can I do to sleep better at night?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1092fbb-86e9-48b5-ad83-e1dac3ddd41d",
+    "data": [
+      {
+        "text": "Can you give me advice on sleep improvement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a52c5997-daae-4e54-a9b4-67a1d78d9928",
+    "data": [
+      {
+        "text": "I need help with getting better sleep.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63352a62-fb08-4378-b122-89c7c060524e",
+    "data": [
+      {
+        "text": "I\u0027m having trouble sleeping. Any tips?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccde59e7-8e21-4684-9518-cc513d64e71f",
+    "data": [
+      {
+        "text": "How can I improve my sleep?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "53d40464-b081-4ff4-bced-4f48d392d590",
+  "name": "Motivation_Resources",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are a few motivational tips to lift your spirits:\n\n1. Don’t compare yourself to others: Your journey is unique. Focus on your growth. 🌱\n2. Stay positive: A positive mindset can help you navigate through tough times. 😊\n3. Surround yourself with positivity: Spend time with people who uplift and inspire you. 🌟\n4. Take breaks: Rest is important for rejuvenating your energy and staying focused. 🧘‍♀️\n5. Keep learning: Knowledge is empowering and keeps you motivated for growth. 📚",
+            "\"Sometimes, all we need is a little motivation to keep going! Here are some ways to stay inspired:\"\n\n1. Read uplifting stories and biographies of people who overcame challenges. 📖\n2. Listen to motivational podcasts or audiobooks that boost your mindset. 🎧\n3. Surround yourself with positive people who encourage you. 👯‍♀️\n4. Set small, achievable goals and celebrate your progress. 🏆.",
+            "\"Staying motivated is a daily practice! Try these techniques:\"\n\n1. Start your day with positive affirmations. 🌅\n2. Keep a gratitude journal to focus on the good in life. 📔\n3. Engage in activities that bring you joy and fulfillment. 💃\n4. Break big tasks into small steps to avoid feeling overwhelmed. 📝"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
