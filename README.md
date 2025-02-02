@@ -20,7 +20,6 @@ This chatbot is currently a **basic prototype**, with **future enhancements plan
 
 ## **🖥️ Chatbot Interface**  
 <img width="301" alt="1" src="https://github.com/user-attachments/assets/b0073879-e357-460d-b1c6-38e3f53f21ec" />
-<img width="299" alt="2" src="https://github.com/user-attachments/assets/13c9a598-947d-4a4c-aff6-df0b43ed35a7" />
 
 
 ## **🎥 Demo**  
